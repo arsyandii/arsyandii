@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 Hi, I’m @arsyandii Arshandy Ilham Fadilillah<br>👯 I’m looking to collaborate on web developer, web design, android ui ux landing page<br>👀 I’m interested in web programming and android programming, design, trading crypto air softer game<br>🌱 I’m currently learning sdn bandung rejosari 1, malang smp taman dewasa malang, smkn 11 malang<br>📫 How to reach me instagram : arsyandiil github : arsyandii gmail : arzandy321@gmail.com telegram : 085825111203<br>⚡ Fun fact : 👻
+<br>link portofolio : https://arsyandii-portofolio.vercel.app/</br>
 
 
 ## 🌐 Socials:
